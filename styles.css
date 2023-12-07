@@ -1,0 +1,31 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: black;
+}
+
+ul {
+    opacity: 97%;
+    background-color: white;
+    color: black;
+}
+
+ol {
+    color: grey;
+}
+
+h1 {
+    color: black, 0.9;
+}
+
+h4 {
+    color:cornsilk;
+    
+}
